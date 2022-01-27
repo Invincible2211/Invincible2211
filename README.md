@@ -20,13 +20,22 @@ Currently working most with IntelliJ IDEA. I program Minecraft plugins in my spa
 # 📈 𝓖𝓲𝓽𝓗𝓾𝓫 𝓢𝓽𝓪𝓽𝓼
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=Invincible2211&theme=midnight-purple&show_icons=true&locale=en" alt="Invincible2211" />
-<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Invincible2211&repo=SCO-Core&theme=midnight-purple" />
-<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Invincible2211&repo=SCO-Gilden&theme=midnight-purple" />
-<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Invincible2211&repo=SCO-NPC&theme=midnight-purple" />
-<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Invincible2211&repo=SCO-Quests&theme=midnight-purple" />
-<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Invincible2211&repo=SCO-PlaceholderAPI&theme=midnight-purple" />
-<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Invincible2211&repo=SCO-LanguageAPI&theme=midnight-purple" />
-<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Invincible2211&repo=SCO-CustomInventorysAPI&theme=midnight-purple" />
+
+<a href="https://github.com/Invincible2211/SCO-Core" target="_blank"> <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Invincible2211&repo=SCO-Core&theme=midnight-purple" alt="SCO-Core"/> </a>
+
+<a href="https://github.com/Invincible2211/SCO-Gilden" target="_blank"> <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Invincible2211&repo=SCO-Gilden&theme=midnight-purple" alt="SCO-Gilden"/> </a>
+
+<a href="https://github.com/Invincible2211/SCO-NPC" target="_blank"> <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Invincible2211&repo=SCO-NPC&theme=midnight-purple" alt="SCO-NPC"/> </a>
+
+<a href="https://github.com/Invincible2211/SCO-Quests" target="_blank"> <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Invincible2211&repo=SCO-Quests&theme=midnight-purple" alt="SCO-Quests"/> </a>
+
+<a href="https://github.com/Invincible2211/SCO-PlaceholderAPI" target="_blank"> <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Invincible2211&repo=SCO-PlaceholderAPI&theme=midnight-purple" alt="SCO-PlaceholderAPI"/> </a>
+
+<a href="https://github.com/Invincible2211/SCO-LanguageAPI" target="_blank"> <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Invincible2211&repo=SCO-LanguageAPI&theme=midnight-purple" alt="SCO-LanguageAPI&theme"/> </a>
+
+<a href="https://github.com/Invincible2211/SCO-CustomInventorysAPI" target="_blank"> <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Invincible2211&repo=SCO-CustomInventorysAPI&theme=midnight-purple" alt="SCO-CustomInventorysAPI"/> </a>
+
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Invincible2211&theme=midnight-purple" />
+
 <!-- <p><img  src="https://github-readme-stats.vercel.app/api/top-langs?username=Invincible2211&theme=jolly&show_icons=true&locale=en&layout=compact" alt="Invincible2211" /></p><br /> -->
 <!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Invincible2211&" alt="Invincible2211" /></p> -->
