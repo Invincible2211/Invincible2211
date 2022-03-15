@@ -1,6 +1,12 @@
 # <img height="40" src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif"/> 𝓐𝓫𝓸𝓾𝓽 𝓶𝓮
 Currently working most with IntelliJ IDEA. I program Minecraft plugins in my spare time and I attach great importance to clean code.
 
+# 👨‍💻 Pr𝓸f𝓲l𝓮𝓼
+
+CodeInGame
+
+<a href="https://www.codingame.com/profile/0aa43b2e967fc0f482c8d4f8e95105874871974" target="_"> <img src="https://www.einstieg-informatik.de/wp-content/uploads/2019/12/codingame-300x300.png" alt="CodeinGame" width="60" height="60"/> </a>
+
 # ⚡ 𝓚𝓷𝓸𝔀𝓵𝓮𝓭𝓰𝓮 𝓪𝓷𝓭 𝓼𝓴𝓲𝓵𝓵𝓼
 <p align="left"> 
 <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="60" height="60"/> </a>
