@@ -1,6 +1,3 @@
-# <img height="40" src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif"/> 𝓐𝓫𝓸𝓾𝓽 𝓶𝓮
-Currently working most with IntelliJ IDEA. I program Minecraft plugins in my spare time and I attach great importance to clean code.
-
 # ⚡ 𝓚𝓷𝓸𝔀𝓵𝓮𝓭𝓰𝓮 𝓪𝓷𝓭 𝓼𝓴𝓲𝓵𝓵𝓼
 <p align="left"> 
 <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="60" height="60"/> </a>
