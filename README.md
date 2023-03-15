@@ -16,9 +16,8 @@
 
 # 📈 𝓖𝓲𝓽𝓗𝓾𝓫 𝓢𝓽𝓪𝓽𝓼
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=Invincible2211&theme=midnight-purple&show_icons=true&locale=de" alt="Invincible2211" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=Invincible2211&theme=midnight-purple&show_icons=true&locale=de&count_private=true" alt="Invincible2211" />
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Invincible2211&theme=midnight-purple" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Invincible2211&theme=midnight-purple&count_private=true" />
 
-<!-- <p><img  src="https://github-readme-stats.vercel.app/api/top-langs?username=Invincible2211&theme=jolly&show_icons=true&locale=en&layout=compact" alt="Invincible2211" /></p><br /> -->
-<!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Invincible2211&" alt="Invincible2211" /></p> -->
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Invincible2211&" alt="Invincible2211" /></p>
