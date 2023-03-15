@@ -1,4 +1,4 @@
-# ⚡ 𝓚𝓷𝓸𝔀𝓵𝓮𝓭𝓰𝓮 𝓪𝓷𝓭 𝓼𝓴𝓲𝓵𝓵𝓼
+# 𝓚𝓷𝓸𝔀𝓵𝓮𝓭𝓰𝓮 𝓪𝓷𝓭 𝓼𝓴𝓲𝓵𝓵𝓼
 <p align="left"> 
 <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="60" height="60"/> </a>
 <a href="https://docs.microsoft.com/de-de/cpp/c-language/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="60" height="60"/> </a>
@@ -15,9 +15,11 @@
 ![SQL](https://img.shields.io/badge/sql-Good-yellow)
 
 # 📈 𝓖𝓲𝓽𝓗𝓾𝓫 𝓢𝓽𝓪𝓽𝓼
+<p>        
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=Invincible2211&theme=transparent&show_icons=true&locale=de&count_private=true" alt="Invincible2211" />
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Invincible2211&&theme=transparent" alt="Invincible2211" />
+</p>
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=Invincible2211&theme=midnight-purple&show_icons=true&locale=de&count_private=true" alt="Invincible2211" />
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Invincible2211&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Invincible2211&theme=midnight-purple&count_private=true" />
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Invincible2211&" alt="Invincible2211" /></p>
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Invincible2211&theme=transparent" />
