@@ -16,7 +16,7 @@
 
 # 📈 𝓖𝓲𝓽𝓗𝓾𝓫 𝓢𝓽𝓪𝓽𝓼
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=Invincible2211&theme=midnight-purple&show_icons=true&locale=en" alt="Invincible2211" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=Invincible2211&theme=midnight-purple&show_icons=true&locale=de" alt="Invincible2211" />
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Invincible2211&theme=midnight-purple" />
 
