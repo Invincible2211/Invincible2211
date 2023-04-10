@@ -17,7 +17,8 @@
 # 📈 𝓖𝓲𝓽𝓗𝓾𝓫 𝓢𝓽𝓪𝓽𝓼
 <p>        
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=Invincible2211&theme=transparent&show_icons=true&locale=de&count_private=true" alt="Invincible2211" />
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Invincible2211&&theme=transparent" alt="Invincible2211" />
 </p>
+
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Invincible2211&&theme=transparent" alt="Invincible2211" />
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Invincible2211&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
